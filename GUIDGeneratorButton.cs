@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
+// Move this file into a folder named "Editor", or building will fail.
+
 [CustomEditor((typeof(GUIDManager)))]
 public class GUIDGeneratorButton : Editor
 {
