@@ -1,4 +1,4 @@
-# unity-gameobject-guid-gen
+# GUID-generator for Unity GameObjects 
 Create GUIDs for Unity game objects, right in the inspector. 
 
 Please make sure that "GUIDGeneratorButton.cs" is in a folder named "Editor" or it will create build errors.
